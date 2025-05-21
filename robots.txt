@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uplifted-confidence-186508.framer.app/sitemap.xml
